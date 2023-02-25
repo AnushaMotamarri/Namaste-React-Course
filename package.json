@@ -1,0 +1,30 @@
+{
+  "name": "Namaste-React-Course",
+  "version": "1.0.0",
+  "description": "A repository to store all the learnings and take aways from Namaste React Live Course by Akshay Saini.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start":"parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnushaMotamarri/Namaste-React-Course.git"
+  },
+  "keywords": [],
+  "author": "Anusha Motamarri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnushaMotamarri/Namaste-React-Course/issues"
+  },
+  "homepage": "https://github.com/AnushaMotamarri/Namaste-React-Course#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
